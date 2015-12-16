@@ -1,0 +1,28 @@
+name: Ramification
+favicon: null
+layout_spectrum: 0.5132439145818353
+typography_spectrum: 0.4592090172227472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.06812746007926762
+  lightness: 0.7977271783165634
+  saturation: 0.6511749965138733
+  rhythmicContrast: 0.030320489080622792
+purpose: []
